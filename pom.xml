@@ -66,9 +66,9 @@
                                     <element>CLASS</element>
                                     <limits>
                                         <limit>
-                                            <counter>INSTRUCTION</counter>
+                                            <counter>BRANCH</counter>
                                             <value>COVEREDRATIO</value>
-                                            <minimum>0.80</minimum>
+                                            <minimum>1.00</minimum>
                                         </limit>
                                     </limits>
                                     <excludes>
